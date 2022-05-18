@@ -103,16 +103,7 @@ r=cov/(sx*sy)
 </br>
 <br>
 </br>
-<br>
-</br>
-<br>
-</br>
-<br>
-</br>
-<br>
-</br>
-<br>
-</br>
+
 
 # Output : 
 
