@@ -1,23 +1,40 @@
-Marginal distributions and correation coefficient
-Aim :
+# EXP. NO: 03
+
+# DATE :
+
+# <p align = "center"> Marginal distributions and correation coefficient </p>
+
+
+# Aim : 
+
 To find marginal distributions and correation coefficient of joint probability mass funcition of two dimensional random variables
 
-image
+![image](https://user-images.githubusercontent.com/104613195/168222062-bb7dec1f-f115-4669-8b4c-58283af8ccf3.png)
 
-Software required :
+# Software required :  
+
 Python
 
-Theory:
-A marginal distribution is a distribution of values for one variable that ignores a more extensive set of related variables in a dataset. The marginal mass function for X is found by summing over the appropriate column and the marginal mass function for Y can be found be summing over the appropriate row.
+# Theory:
 
-Correlation coefficients are indicators of the strength of the linear relationship between two different variables. The coefficient of correlation is measure of degree of realtionship betwen two variavbles. A linear correlation coefficient that is greater than zero indicates a positive relationship. A value that is less than zero signifies a negative relationship. Finally, a value of zero indicates no relationship between the two variables x and y.
+A marginal distribution is a distribution of values for one variable that ignores a more extensive set of related variables in a dataset.
+The marginal mass function for X is found by summing over the appropriate column and the marginal mass function
+for Y can be found be summing over the appropriate row.
 
-Procedure :
-image
+Correlation coefficients are indicators of the strength of the linear relationship between two different variables. The coefficient of correlation is measure of degree of realtionship betwen two variavbles. A linear correlation coefficient that is greater than zero indicates a positive relationship. A value that is less than zero signifies a negative relationship. Finally, a value of zero indicates no relationship between the two variables x and y.  
 
-Program
-#Developed By : Lokesh Krishnaa  M
-#Register No: 212220230030
+
+
+# Procedure :
+![image](https://user-images.githubusercontent.com/104613195/168220332-09383cb4-a7ac-4526-b547-fc522ca53227.png)
+
+
+
+# Program
+
+```python
+#Developed By : BALAJI N
+#Register No: 212220230006
 
 import numpy as np
 import math
@@ -52,8 +69,15 @@ for i in range(6):
 exy
 cov=exy-ex*ey
 r=cov/(sx*sy)
-Output :
-Screenshot (2) Screenshot (3)
 
-Result :
+```
+
+
+# Output : 
+
+![Screenshot (2)](https://user-images.githubusercontent.com/78194419/168961787-ce2039db-9bac-4ea5-a4ad-50a07cadd09e.png)
+![Screenshot (3)](https://user-images.githubusercontent.com/78194419/168961794-a2b872ee-a502-41c3-8b64-c41a6309c1d5.png)
+
+
+# Result :
 Thus the marginal distributions and correation coefficient of joint probability mass function for the problem is found.
