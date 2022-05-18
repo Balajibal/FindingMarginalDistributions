@@ -72,42 +72,8 @@ r=cov/(sx*sy)
 
 ```
 
-<br>
-</br>
 
-<br>
-</br>
-<br>
-</br>
-<br>
-</br>
-<br>
-</br>
-<br>
-</br>
-<br>
-</br>
-<br>
-</br>
-<br>
-</br>
-<br>
-</br>
-<br>
-</br>
-<br>
-</br>
-<br>
-</br>
-<br>
-</br>
-<br>
-</br>
-<br>
-</br>
-
-
-# Output : 
+<br># Output :</br> 
 
 ![Screenshot (143)](https://user-images.githubusercontent.com/75234946/168963280-37e67d86-8eac-4123-b290-6d1c1cfa3b95.png)
 ![Screenshot (144)](https://user-images.githubusercontent.com/75234946/168963331-1eb4da02-9330-481b-910a-4bb07c1bc091.png)
