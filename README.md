@@ -75,8 +75,10 @@ r=cov/(sx*sy)
 
 # Output : 
 
-![Screenshot (2)](https://user-images.githubusercontent.com/78194419/168961787-ce2039db-9bac-4ea5-a4ad-50a07cadd09e.png)
-![Screenshot (3)](https://user-images.githubusercontent.com/78194419/168961794-a2b872ee-a502-41c3-8b64-c41a6309c1d5.png)
+![Screenshot (143)](https://user-images.githubusercontent.com/75234946/168963280-37e67d86-8eac-4123-b290-6d1c1cfa3b95.png)
+![Screenshot (144)](https://user-images.githubusercontent.com/75234946/168963331-1eb4da02-9330-481b-910a-4bb07c1bc091.png)
+![Screenshot (145)](https://user-images.githubusercontent.com/75234946/168963379-530344b2-d705-4ad7-a6d0-9049a4ca5261.png)
+
 
 
 # Result :
